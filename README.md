@@ -1,5 +1,12 @@
 # E-Commerce Catalog
 
+## Screenshot
+
+![SS Mens](https://github.com/hdyntrama/ecommerce-catalog/assets/90841975/165f480f-f938-451e-b991-89f73f0043b6)
+
+![SS Womens](https://github.com/hdyntrama/ecommerce-catalog/assets/90841975/77f10de9-23dc-4ca2-8d8b-382415f8e5b9)
+
+
 ## Project setup
 
 ```
